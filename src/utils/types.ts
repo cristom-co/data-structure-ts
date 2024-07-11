@@ -1,0 +1,1 @@
+export type TconsoleTitle =  (title: string) =>  void
